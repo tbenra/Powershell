@@ -1,4 +1,4 @@
-<# Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\Vm_touch erstelle
+<# Computer\HKEY_CLASSES_ROOT\Directory\Background\shell\Vm_touch erstellen
     (Standard) Namen vergeben
     Neuen (Unter)Schlüssel anlegen: command 
     (Standard): Powershell "C:\Pfad\zum\Skript\VmTouch.ps1"
