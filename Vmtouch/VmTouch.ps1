@@ -10,4 +10,3 @@ Write-Host $path
 ssh tobias@192.168.10.1 vmtouch -vt $path
 Write-Host "Beliebige Taste zum Beenden druecken"
 $null = $Host.UI.RawUI.ReadKey('NoEcho,IncludeKeyDown');
-
